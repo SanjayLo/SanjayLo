@@ -1,4 +1,4 @@
-<h1> Hi there 👋 </h1>
+<h1 align="center" style="color:Tomato;"> Hi there 👋 </h1>
 
 ***
 
